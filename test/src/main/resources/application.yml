@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:mysql://192.168.164.134:3306/product?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+  application:
+    name: product_server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: zy.nacos.com:8848
+        namespace: dev
+        group: PRODUCT_GROUP
+server:
+  port: 9001
+datacenterId: 0702

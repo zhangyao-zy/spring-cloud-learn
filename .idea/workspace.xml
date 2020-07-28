@@ -1,10 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class" line="0" mnemonic="5" />
+    <bookmark url="jar://E:/maven/repository/org/springframework/spring-webflux/5.1.11.RELEASE/spring-webflux-5.1.11.RELEASE.jar!/org/springframework/web/reactive/DispatcherHandler.class" line="0" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f675eb-97dc-4887-8593-06b1e962dbf4" name="Default Changelist" comment="" />
+    <list default="true" id="13f675eb-97dc-4887-8593-06b1e962dbf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/user-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-api/src/main/java/more/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-controller/src/main/java/more/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-controller/src/main/java/more/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-controller/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/more/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/more/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/zy/more/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/zy/more/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/zy/more/util/SnowFlake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/zy/more/GatewayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/zy/more/config/DynamicRouteConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/zy/more/config/DynamicRouteConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/gateway-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/classes/com/zy/more/entity/InventoryDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/classes/com/zy/more/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/inventory-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/classes/com/zy/more/InventoryApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/classes/com/zy/more/controller/InventoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/inventory-controller-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/inventory-controller-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/zy/more/dao/InventoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/zy/more/service/impl/InventoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/inventory-service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/classes/com/zy/more/entity/OrderDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/classes/com/zy/more/entity/OrderListProductDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/classes/com/zy/more/service/OrderListProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/classes/com/zy/more/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-api/target/order-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/classes/com/zy/more/OrderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/classes/com/zy/more/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-controller/target/order-controller-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/zy/more/config/FeignLogConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/zy/more/dao/OrderDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/zy/more/dao/OrderListProrductDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/zy/more/feign/InventoryFeign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/zy/more/service/impl/OrderListProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/zy/more/service/impl/OrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/zy/more/entity/ProductDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/zy/more/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/product-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/classes/com/zy/more/ProductApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/classes/com/zy/more/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-controller/target/product-controller-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/zy/more/dao/ProductDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/classes/com/zy/more/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/product-service-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/product-service/target/" />
@@ -20,6 +122,11 @@
     <ignored path="$PROJECT_DIR$/order-service/${project.build.directory}/classes/" />
     <ignored path="$PROJECT_DIR$/order-service/${project.build.directory}/test-classes/" />
     <ignored path="$PROJECT_DIR$/gateway/target/" />
+    <ignored path="$PROJECT_DIR$/test/target/" />
+    <ignored path="$PROJECT_DIR$/user-api/target/" />
+    <ignored path="$PROJECT_DIR$/user-controller/target/" />
+    <ignored path="$PROJECT_DIR$/user-service/target/" />
+    <ignored path="test/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +147,18 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="order@192.168.164.134" type="feb32156:DbDataSourceImpl" />
+        <item name="user@192.168.164.134" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="order@192.168.164.134" type="feb32156:DbDataSourceImpl" />
+        <item name="user@192.168.164.134" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="order@192.168.164.134" type="feb32156:DbDataSourceImpl" />
+        <item name="user@192.168.164.134" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="order: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="product@192.168.164.134" type="feb32156:DbDataSourceImpl" />
+        <item name="user: schema" type="76f4a085:MysqlImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -69,98 +172,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/filter/factory/AddRequestHeaderGatewayFilterFactory.class">
+        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/more/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+            <state relative-caret-position="405">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway/src/main/resources/bootstrap.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/security/SecurityCoreConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
-                <element signature="e#0#879#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1557#1558#0" expanded="true" />
+                <element signature="e#1605#1606#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/server/reactive/ServerHttpRequest.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/server/reactive/DefaultServerHttpRequestBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/inventory-controller/src/main/java/com/zy/more/controller/InventoryController.java">
+        <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-web/5.1.7.RELEASE/spring-security-web-5.1.7.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/controller/OrderController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="774" column="22" selection-start-line="774" selection-start-column="22" selection-end-line="774" selection-end-column="22" />
+            <state relative-caret-position="135">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
-                <element signature="e#28115#28116#0" expanded="true" />
-                <element signature="e#28172#28173#0" expanded="true" />
+                <element signature="e#0#3300#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/spring-core/5.1.11.RELEASE/spring-core-5.1.11.RELEASE.jar!/org/springframework/util/MultiValueMap.class">
+        <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/web/servlet/server/Session.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="594">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.class">
+        <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/service/impl/UserDetailServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="513">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/support/ConfigurationUtils.class">
+        <entry file="file://$PROJECT_DIR$/user-controller/src/main/java/more/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="594">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inventory-controller/src/main/java/com/zy/more/InventoryApplication.java">
+        <entry file="file://$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/OrderApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="378">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2943">
+              <caret line="154" column="93" selection-start-line="154" selection-start-column="8" selection-end-line="154" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/crypto/factory/PasswordEncoderFactories.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -182,62 +292,71 @@
       <find>execute</find>
       <find>doCreateBean</find>
       <find>Client</find>
+      <find>RoutePredicateHandle</find>
+      <find>PropertiesRouteDefinitionLocator</find>
+      <find>DispatcherHandler</find>
+      <find>DelegatingWebFluxConfiguration</find>
+      <find>FilteringWebHandler</find>
+      <find>GlobalFilter</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/product-controller/src/main/java/com/zy/more/ProductApplication.java" />
-        <option value="$PROJECT_DIR$/product-controller/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/product-service/src/main/java/com/zy/more/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/product-api/pom.xml" />
-        <option value="$PROJECT_DIR$/product-service/pom.xml" />
-        <option value="$PROJECT_DIR$/product-api/src/main/java/com/zy/more/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/product-service/src/main/java/com/zy/more/service/impl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/zy/more/Page.java" />
-        <option value="$PROJECT_DIR$/product-controller/src/main/java/com/zy/more/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/inventory-api/pom.xml" />
-        <option value="$PROJECT_DIR$/inventory-controller/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/order-api/src/main/java/com/zy/more/entity/Order.java" />
-        <option value="$PROJECT_DIR$/order-api/pom.xml" />
-        <option value="$PROJECT_DIR$/order-api/src/main/java/com/zy/more/service/OrderListProductService.java" />
-        <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/dao/OrderDap.java" />
-        <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/service/impl/orderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/zy/more/util/snowFlake.java" />
-        <option value="$PROJECT_DIR$/common/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/dao/OrderDao.java" />
-        <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/dao/OrderListProrductDao.java" />
-        <option value="$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/controller.java" />
-        <option value="$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/OrderController.java" />
-        <option value="$PROJECT_DIR$/order-api/src/main/java/com/zy/more/service/OrderService.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/zy/more/util/SnowFlake.java" />
-        <option value="$PROJECT_DIR$/order-api/src/main/java/com/zy/more/entity/OrderDO.java" />
-        <option value="$PROJECT_DIR$/order-api/src/main/java/com/zy/more/entity/OrderListProductDO.java" />
-        <option value="$PROJECT_DIR$/inventory-api/src/main/java/com/zy/more/entity/InventoryDO.java" />
-        <option value="$PROJECT_DIR$/product-api/src/main/java/com/zy/more/entity/ProductDO.java" />
-        <option value="$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/OrderApplication.java" />
-        <option value="$PROJECT_DIR$/inventory-service/src/main/java/com/zy/more/dao/InventoryDao.java" />
-        <option value="$PROJECT_DIR$/inventory-service/pom.xml" />
-        <option value="$PROJECT_DIR$/inventory-controller/src/main/java/com/zy/more/InventoryApplication.java" />
-        <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/config/FeignLogConfig.java" />
-        <option value="$PROJECT_DIR$/inventory-api/src/main/java/com/zy/more/service/InventoryService.java" />
-        <option value="$PROJECT_DIR$/inventory-service/src/main/java/com/zy/more/service/impl/InventoryServiceImpl.java" />
-        <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/feign/InventoryFeign.java" />
         <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/order-service/src/main/java/com/zy/more/service/impl/OrderListProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/order-service/pom.xml" />
         <option value="$PROJECT_DIR$/order-controller/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/GatewayApplication.java" />
         <option value="$PROJECT_DIR$/order-controller/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/inventory-controller/pom.xml" />
-        <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/properties.java" />
-        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/DynamicRouteConfig.java" />
-        <option value="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/inventory-controller/src/main/java/com/zy/more/controller/InventoryController.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/filter/MySingleFilter.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/filter/MySingleGatewayFilter.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/filter/MyLogGatewayFilter.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/filter/MySingleGatewayFilterFactory.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/DynamicRouteConfig.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/test/TestDTo.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/test/TestDTO.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/test/SonDTO.java" />
+        <option value="$PROJECT_DIR$/test/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/entity/product.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/TestApplication.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/service/impl/TestService.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/entity/BaseEntiry.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/entity/Product.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/zy/test/mapper/TestMapper.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/more/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/more/entity/User.java" />
+        <option value="$PROJECT_DIR$/user-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/user-controller/src/main/java/more/ProductApplication.java" />
+        <option value="$PROJECT_DIR$/user-controller/src/main/java/more/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/more/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/more/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/user-controller/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/filter/AuthorGlobalFilter.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/feign.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/more/controller/UserContoller.java" />
+        <option value="$PROJECT_DIR$/user-api/src/main/java/more/service/UserService.java" />
+        <option value="$PROJECT_DIR$/user-controller/src/main/java/more/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/more/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/more/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/GatewayApplication.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/service/UserDetailService.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/feign/UserFeignClient.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/service/impl/UserDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/security/SecurityCoreConfig.java" />
       </list>
     </option>
   </component>
@@ -265,22 +384,33 @@
           <item name="gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-more" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-more" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="2" />
+    <option name="x" value="-8" />
     <option name="width" value="1548" />
     <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,25 +421,25 @@
             <path>
               <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
-              <item name="order-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
-              <item name="order-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
-              <item name="order-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
-              <item name="order-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -317,7 +447,7 @@
             <path>
               <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
-              <item name="order-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -326,18 +456,116 @@
             <path>
               <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
-              <item name="order-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="user-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="more" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="more" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="more" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="more" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-more" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-more" type="462c0819:PsiDirectoryNode" />
+              <item name="user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="more" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,8 +576,15 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/order-controller/src/main/java/com/zy/more" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/order-controller/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -363,6 +598,9 @@
       <recent name="com.zy.more.entity" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\张尧\idea项目\tl\spring-cloud-more\user-service\src\main\java" />
+      <recent name="E:\张尧\idea项目\tl\spring-cloud-more\user-controller\src\main\java" />
+      <recent name="E:\张尧\idea项目\tl\spring-cloud-more\user-api\src\main\java" />
       <recent name="E:\张尧\idea项目\tl\spring-cloud-more\order-controller\src\main\resources" />
     </key>
   </component>
@@ -382,22 +620,22 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.14664502" />
+    <option name="contentProportion" value="0.25054112" />
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderApplication">
+  <component name="RunManager" selected="Spring Boot.UserApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zy.more.service.impl.ProductServiceImpl" />
-      <module name="product-service" />
+    <configuration name="SonDTO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zy.more.test.SonDTO" />
+      <module name="gateway" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zy.more.service.impl.*" />
+          <option name="PATTERN" value="com.zy.more.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,15 +689,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="product-controller" />
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-controller" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zy.more.*" />
+          <option name="PATTERN" value="more.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zy.more.ProductApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="more.UserApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -484,10 +722,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.UserApplication" />
         <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Application.SonDTO" />
         <item itemvalue="Spring Boot.InventoryApplication" />
-        <item itemvalue="Spring Boot.ProductApplication" />
-        <item itemvalue="Application.ProductServiceImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -513,458 +751,504 @@
       <workItem from="1594116169447" duration="19397000" />
       <workItem from="1594600052037" duration="13719000" />
       <workItem from="1594711187870" duration="13056000" />
-      <workItem from="1594809355895" duration="9049000" />
+      <workItem from="1594809355895" duration="21349000" />
+      <workItem from="1594950753373" duration="9338000" />
+      <workItem from="1594974915305" duration="4936000" />
+      <workItem from="1595205425381" duration="17842000" />
+      <workItem from="1595234574268" duration="12895000" />
+      <workItem from="1595298171884" duration="10401000" />
+      <workItem from="1595398084408" duration="705000" />
+      <workItem from="1595401023134" duration="1543000" />
+      <workItem from="1595405657616" duration="1632000" />
+      <workItem from="1595407420919" duration="2469000" />
+      <workItem from="1595471553711" duration="3265000" />
+      <workItem from="1595485135643" duration="15411000" />
+      <workItem from="1595573796583" duration="3601000" />
+      <workItem from="1595810707160" duration="3288000" />
+      <workItem from="1595923008370" duration="2192000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(网关结合springsecurity验证用户登录): 网关结合springsecurity验证用户登录&#10;&#10;网关结合springsecurity验证用户登录">
+      <created>1595927802051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595927802051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142747000" />
+    <option name="totallyTimeSpent" value="244565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984985" visible="true" weight="0.21002132" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49434572" visible="true" weight="0.18710022" />
+      <window_info id="Structure" order="1" sideWeight="0.5056543" side_tool="true" weight="0.18123667" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5015015" side_tool="true" weight="0.26066098" />
+      <window_info id="Favorites" order="5" sideWeight="0.5065789" side_tool="true" weight="0.21428572" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30769232" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30694142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="10" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.29317698" side_tool="true" weight="0.29934925" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.21668473" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.70682305" weight="0.32212582" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3347548" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.36460555" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49690402" weight="0.21215352" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.503096" side_tool="true" weight="0.21002132" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30694142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.29317698" side_tool="true" weight="0.29934925" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.70682305" visible="true" weight="0.28741866" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.36460555" />
       <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
       <window_info anchor="right" id="Bean Validation" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/DynamicRouteConfig.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(网关结合springsecurity验证用户登录): 网关结合springsecurity验证用户登录&#10;&#10;网关结合springsecurity验证用户登录" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(网关结合springsecurity验证用户登录): 网关结合springsecurity验证用户登录&#10;&#10;网关结合springsecurity验证用户登录" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_cloud_more$TestApplication.ic" NAME="TestApplication Coverage Results" MODIFIED="1594987192940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zy.test.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-hystrix/10.1.0/feign-hystrix-10.1.0.jar!/feign/hystrix/HystrixFeign.class">
+    <entry file="file://$PROJECT_DIR$/user-controller/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding>
-            <element signature="e#3213#3214#0" expanded="true" />
-            <element signature="e#3286#3287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/HttpClientFeignLoadBalancedConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/DefaultFeignLoadBalancedConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-context/2.1.0.RELEASE/spring-cloud-context-2.1.0.RELEASE.jar!/org/springframework/cloud/context/named/NamedContextFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="131" column="66" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="170" column="31" lean-forward="true" selection-start-line="170" selection-start-column="31" selection-end-line="170" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1119">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/DefaultTargeter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/Targeter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/DefaultMethodHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/Feign.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="205" column="21" selection-start-line="205" selection-start-column="21" selection-end-line="205" selection-end-column="21" />
-          <folding>
-            <element signature="e#6834#6835#0" expanded="true" />
-            <element signature="e#6897#6898#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/HystrixTargeter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#12474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/reactivex/rxjava/1.2.0/rxjava-1.2.0.jar!/rx/internal/util/ScalarSynchronousObservable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="e#0#6722#0" expanded="true" />
-            <element signature="e#2556#3063#0" expanded="true" />
-            <element signature="e#3062#3063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/javassist/javassist/3.23.2-GA/javassist-3.23.2-GA.jar!/javassist/util/proxy/MethodHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/FeignRibbonClientAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="28" column="78" selection-start-line="28" selection-start-column="78" selection-end-line="28" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/InvocationHandlerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/netflix/ribbon/ribbon-core/2.3.0/ribbon-core-2.3.0.jar!/com/netflix/client/IClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/okhttp/OkHttpLoadBalancingClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="188" selection-start-line="188" selection-end-line="188" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-core/5.1.11.RELEASE/spring-core-5.1.11.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.11.RELEASE/spring-context-5.1.11.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/OkHttpFeignLoadBalancedConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/ReflectiveFeign.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="335" selection-start-line="335" selection-end-line="335" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/SynchronousMethodHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/LoadBalancerFeignClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/SpringClientFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/CachingSpringLoadBalancerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/client/AbstractLoadBalancerAwareClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0.jar!/feign/Client.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/io/github/openfeign/feign-okhttp/11.0/feign-okhttp-11.0.jar!/feign/okhttp/OkHttpClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-context/5.1.11.RELEASE/spring-context-5.1.11.RELEASE.jar!/org/springframework/context/ApplicationEventPublisherAware.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/FeignLoadBalancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/GatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-controller/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/zy/more/service/impl/OrderListProductServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1372">
-          <caret line="59" column="71" selection-start-line="59" selection-start-column="71" selection-end-line="59" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="22" column="41" selection-start-line="13" selection-start-column="4" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/filter/factory/AbstractNameValueGatewayFilterFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="108">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/DynamicRouteConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        <state relative-caret-position="297">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_171/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7911">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/config/PropertiesRouteDefinitionLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inventory-controller/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-controller/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/context/properties/DeprecatedConfigurationProperty.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessorRegistrar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationPropertiesImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-config/5.1.7.RELEASE/spring-security-config-5.1.7.RELEASE.jar!/org/springframework/security/config/annotation/web/reactive/EnableWebFluxSecurity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationPropertiesRegistrar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationBeanFactoryMetadata.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBinder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/context/properties/bind/Binder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClientImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/spring-core/5.1.11.RELEASE/spring-core-5.1.11.RELEASE.jar!/org/springframework/core/type/AnnotationMetadata.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/spring-core/5.1.11.RELEASE/spring-core-5.1.11.RELEASE.jar!/org/springframework/core/type/ClassMetadata.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/filter/AuthorGlobalFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1553#1593#1" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/filter/factory/AddRequestHeaderGatewayFilterFactory.class">
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/GrantedAuthority.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        <state relative-caret-position="54">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/userdetails/MapReactiveUserDetailsService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
           <folding>
-            <element signature="e#0#879#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/server/reactive/ServerHttpRequest.class">
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/feign.java" />
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/more/controller/UserContoller.java" />
+    <entry file="file://$PROJECT_DIR$/user-controller/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        <state relative-caret-position="245">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/server/reactive/DefaultServerHttpRequestBuilder.class">
+    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/more/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="774" column="22" selection-start-line="774" selection-start-column="22" selection-end-line="774" selection-end-column="22" />
+        <state relative-caret-position="356">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding>
-            <element signature="e#28115#28116#0" expanded="true" />
-            <element signature="e#28172#28173#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/spring-core/5.1.11.RELEASE/spring-core-5.1.11.RELEASE.jar!/org/springframework/util/MultiValueMap.class">
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="162">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.class">
+    <entry file="file://$PROJECT_DIR$/gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="518">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE.jar!/org/springframework/cloud/gateway/support/ConfigurationUtils.class">
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/GatewayApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="297">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inventory-controller/src/main/java/com/zy/more/InventoryApplication.java">
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#284#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/controller/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/service/UserDetailService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        <state relative-caret-position="297">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#370#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inventory-controller/src/main/java/com/zy/more/controller/InventoryController.java">
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/userdetails/ReactiveUserDetailsService.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+        <state relative-caret-position="162">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/crypto/password/DelegatingPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/feign/UserFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/more/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+          <folding>
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/more/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/2.1.10.RELEASE/spring-boot-2.1.10.RELEASE.jar!/org/springframework/boot/web/servlet/server/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/service/impl/UserDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-controller/src/main/java/more/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-controller/src/main/java/com/zy/more/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2943">
+          <caret line="154" column="93" selection-start-line="154" selection-start-column="8" selection-end-line="154" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-core/5.1.7.RELEASE/spring-security-core-5.1.7.RELEASE.jar!/org/springframework/security/crypto/factory/PasswordEncoderFactories.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/src/main/java/com/zy/more/config/security/SecurityCoreConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1557#1558#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/security/spring-security-web/5.1.7.RELEASE/spring-security-web-5.1.7.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#3300#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,7 +1302,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>order-service</last-edited>
+          <last-edited>product-api</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

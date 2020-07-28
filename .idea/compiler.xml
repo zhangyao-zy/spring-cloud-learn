@@ -7,17 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="order-api" />
+        <module name="user-service" />
+        <module name="inventory-api" />
         <module name="gateway" />
         <module name="product-service" />
-        <module name="common" />
         <module name="product-controller" />
+        <module name="test" />
+        <module name="order-api" />
         <module name="order-service" />
-        <module name="order-controller" />
-        <module name="inventory-api" />
+        <module name="user-controller" />
         <module name="product-api" />
-        <module name="inventory-service" />
         <module name="inventory-controller" />
+        <module name="inventory-service" />
+        <module name="user-api" />
+        <module name="common" />
+        <module name="order-controller" />
       </profile>
     </annotationProcessing>
   </component>

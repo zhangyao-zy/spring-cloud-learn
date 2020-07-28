@@ -1,6 +1,0 @@
-com\zy\more\dao\OrderDao.class
-com\zy\more\dao\OrderListProrductDao.class
-com\zy\more\service\impl\OrderListProductServiceImpl.class
-com\zy\more\config\FeignLogConfig.class
-com\zy\more\service\impl\OrderServiceImpl.class
-com\zy\more\feign\InventoryFeign.class
